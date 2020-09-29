@@ -19,7 +19,7 @@ footer .container{ margin-top: 25px;}
 footer .tab-right{ float: right;display: inline-block;}
 footer .tab-left{ position: absolute;float: left;display: block;left: 50%;transform: translateX(-50%);}
 footer .tab-right .social ul li{ float: left;}
-footer .tab-right .social ul li i{ width: 40px;height: 40px;line-height: 40px;color: #fff;border: 1px solid #fff;border-radius: 100%;text-align: center;transition: .4s all;margin-right: 20px;}
+footer .tab-right .social ul li i{ width: 40px;height: 40px;line-height: 40px;color: #fff;border: 1px solid #fff;border-radius: 100%;text-align: center;transition: .4s all;margin-right: 10px;}
 footer .tab-right .social ul li i:hover{ color: #674bb1;background-color: #fff;border: 1px solid #674bb1;}
 .attribution{ font-size: 11px;text-align: center;color: #fff;}
 .attribution a{ color: #fff;font-weight: 700;}
